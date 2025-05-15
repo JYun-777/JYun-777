@@ -1,4 +1,14 @@
-## Hi there 👋
+
+<h1 align="center"> Welcome! 👋</h1>
+
+### Highlighted Projects 🌱
+
+[Command-Line interfaced Accounting Ledger App](https://github.com/JYun-777/CLI-Accounting-Ledger)
+[Object-Oriented Programming focused Car Dealership App](https://github.com/JYun-777/OOP-Car-Dealership)
+
+### Contact me 📫
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-w-yun/)
 
 <!--
 **JYun-777/JYun-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
