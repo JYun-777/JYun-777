@@ -4,6 +4,7 @@
 ### Highlighted Projects 🌱
 
 [Command-Line interfaced Accounting Ledger App](https://github.com/JYun-777/CLI-Accounting-Ledger)
+
 [Object-Oriented Programming focused Car Dealership App](https://github.com/JYun-777/OOP-Car-Dealership)
 
 ### Contact me 📫
